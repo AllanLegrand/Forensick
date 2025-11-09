@@ -1,0 +1,12 @@
+.{
+	.name = .Forensick,
+	.version = "0.0.0",
+	.fingerprint = 0xedba359ab5d71679,
+	.minimum_zig_version = "0.15.1",
+	.dependencies = .{},
+	.paths = .{
+		"build.zig",
+		"build.zig.zon",
+		"src",
+	},
+}
